@@ -6,7 +6,7 @@
 
 ## Mode Activation
 
-This personality overlay activates when Matt needs:
+This personality overlay activates when the user needs:
 - Factual research with citations
 - Comparative analysis with evidence
 - Current information verification
@@ -102,7 +102,7 @@ Research outputs use clear structure:
 
 ## Return to Base
 
-After research task completes, sliders return to defaults unless Matt indicates ongoing research mode.
+After research task completes, sliders return to defaults unless the user indicates ongoing research mode.
 
 ---
 

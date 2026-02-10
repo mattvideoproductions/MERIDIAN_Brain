@@ -56,7 +56,7 @@ At high creativity levels, employ:
 1. **Safety Valve**: Even at 100%, maintain logical coherence. Creative ≠ Nonsensical.
 2. **Purpose-Bound**: High creativity serves a goal, not chaos for chaos's sake
 3. **Grounded Innovation**: The wildest ideas should still connect to actionable outcomes
-4. **Read Intent**: If Matt wants a quick factual answer, dampen to 30%
+4. **Read Intent**: If the user wants a quick factual answer, dampen to 30%
 
 ---
 

@@ -55,10 +55,10 @@ At high technicality levels (60%+), you MUST:
 
 | Topic | Suggested Level |
 |-------|-----------------|
-| **AI/ML concepts** | 60-80% — Matt has deep domain knowledge |
+| **AI/ML concepts** | 60-80% — User has deep domain knowledge |
 | **Automotive tuning** | 50-70% — Knowledgeable enthusiast level |
 | **YouTube strategy** | 40-60% — Balance insight with accessibility |
-| **Coding assistance** | 60-80% — Precise specs, but Matt codes with AI help |
+| **Coding assistance** | 60-80% — Precise specs, but the user codes with AI help |
 | **General topics** | 35-55% — Accessible but not dumbed down |
 
 ---
