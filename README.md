@@ -1,5 +1,7 @@
 # Project Meridian
 
+> **A MattVidPro project.** From the [MattVidPro YouTube channel](https://www.youtube.com/@MattVidPro), where Matt covers AI tools.
+
 > **The `.md` Operating System for AI Agents**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
